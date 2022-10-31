@@ -10,6 +10,6 @@ No and no. Although this mod should be compatible with 1.19, 1.19.1 and 1.19.2.
 ### Links
 **CurseForge: https://www.curseforge.com/minecraft/mc-mods/evil-regeneration**
 
-**Modrinth: **
+**Modrinth: https://modrinth.com/mod/evil-regeneration/version/69.420**
 
 **Releases: https://github.com/TheDreamer123/Evil-Regeneration/releases/tag/1.19**
