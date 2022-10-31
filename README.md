@@ -12,4 +12,4 @@ No and no. Although this mod should be compatible with 1.19, 1.19.1 and 1.19.2.
 
 **Modrinth: **
 
-**Releases: **
+**Releases: https://github.com/TheDreamer123/Evil-Regeneration/releases/tag/1.19**
