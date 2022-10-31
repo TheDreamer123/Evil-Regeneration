@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:adventure/totem_of_undying",
+  "criteria": {
+    "used_totem": {
+      "conditions": {
+        "item": {
+          "items": [
+            "evilregeneration:totem_of_dying"
+          ]
+        }
+      },
+      "trigger": "minecraft:used_totem"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.evilregeneration.totem_of_dying.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "evilregeneration:totem_of_dying"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.evilregeneration.totem_of_dying.title"
+    }
+  },
+  "requirements": [
+    [
+      "used_totem"
+    ]
+  ]
+}

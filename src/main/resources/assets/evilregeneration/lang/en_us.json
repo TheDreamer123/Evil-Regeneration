@@ -1,0 +1,7 @@
+{
+  "item.evilregeneration.totem_of_dying": "Totem of Dying",
+  "death.attack.evilregeneration:regeneration": "%1$s \"healed\" to death",
+  "death.attack.evilregeneration:regeneration.player": "%2$s \"healed\" %1$s to death",
+  "advancements.evilregeneration.totem_of_dying.title": "Postalive",
+  "advancements.evilregeneration.totem_of_dying.description": "Use a Totem of Dying to cheat life"
+}

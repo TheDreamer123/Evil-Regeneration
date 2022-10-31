@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "evilregeneration",
+  "version": "${version}",
+
+  "name": "Evil Regeneration",
+  "description": "Adds a totem that makes regenerating health lethal.",
+  "authors": [
+    "TheDreamer123"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/evil-regeneration",
+    "sources": "https://github.com/TheDreamer123/Evil-Regeneration",
+    "issues": "https://github.com/TheDreamer123/Evil-Regeneration/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/evilregeneration/evilregeneration.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.dreamer.evilregeneration.EvilRegeneration"
+    ],
+    "client": [
+      "net.dreamer.evilregeneration.EvilRegenerationClient"
+    ]
+  },
+  "mixins": [
+    "evilregeneration.mixins.json"
+  ],
+
+  "accessWidener": "evilregeneration.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
